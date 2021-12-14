@@ -1,0 +1,4 @@
+#base test directory
+base_directory : 'Testing/'
+# set the route test url
+route_url : ''

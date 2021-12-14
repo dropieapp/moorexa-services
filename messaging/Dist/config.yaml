@@ -1,0 +1,15 @@
+# Beautiful url
+beautiful_url_target : __app_request__
+# Router global configuration
+router :
+  # set default controller and view
+  default :
+    controller : 'app'
+    view : 'home'
+# actions for model
+actions :
+  - add
+  - create
+  - edit
+  - delete
+  - show
